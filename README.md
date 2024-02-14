@@ -2,10 +2,10 @@
 Here, I have trained an agent to solve taxi problem in Reinforcement Learning using Every Visit, Off-policy Monte Carlo Method
 
 # Files
---`taxi_problem.py`: This file contains implementation of data structures and classes used for this problem.
---`monte.py`: This file contains the learning algorithm used. Run this file to run the algorithm.
---`run_random.py`: This file contains code to run the taxi problem with random position of taxi.
---`gui.py`: This file runs a GUI to visualize how the learned policy is performing. You can set the location of taxi from the interface.
+- `taxi_problem.py`: This file contains implementation of data structures and classes used for this problem.
+- `monte.py`: This file contains the learning algorithm used. Run this file to run the algorithm.
+- `run_random.py`: This file contains code to run the taxi problem with random position of taxi.
+- `gui.py`: This file runs a GUI to visualize how the learned policy is performing. You can set the location of taxi from the interface.
 
 The policy files present are the learned policy from the algorithms from my experiments. You can use those or train you own policy as explained next.
 
