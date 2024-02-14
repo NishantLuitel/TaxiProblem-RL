@@ -34,11 +34,11 @@ python run gui.py policy4.pt
 ```
 
 
-# Reference
+# References
 
 Sutton, R. S., & Barto, A. G. (2018). Reinforcement learning: An introduction. Cambridge (Mass.): The MIT Press. Taken from the Stanford Archives.
 
 
 
 
-# References
+
